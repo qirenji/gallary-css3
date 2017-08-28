@@ -122,5 +122,5 @@ function range() {
 }
 
 window.onresize = function(){
-	location.reload();
+	// location.reload();
 }
